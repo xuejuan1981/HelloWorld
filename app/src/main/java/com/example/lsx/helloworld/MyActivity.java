@@ -34,7 +34,7 @@ public class MyActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.d("lsx", "xxxxxxxxxxxxxxxxxxxx");
+                Log.d("hxj", "xxxxxxxxxxxxxxxxxxxx");
                 editText.setText("button clicked");
             }
         });
